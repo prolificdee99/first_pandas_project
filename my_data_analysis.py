@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-# Rebuild the dataset
+Building the dataset
 data = {
     'OrderID': [1001, 1002, 1003, 1004, 1005, 1006],
     'Customer': ['Alice', 'Bob', 'Charlie', 'Alice', 'David', 'Emma'],
